@@ -1,0 +1,2 @@
+# BDShop
+Gestion de negocio
